@@ -1,2 +1,2 @@
 # module-two-challenge
-perosonal web page
+personal web page
